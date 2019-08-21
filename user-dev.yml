@@ -1,6 +1,6 @@
+env: okok
 
 spring:
   data:
     mongodb:
       uri: mongodb://localhost:27017/test
-pre: okok
